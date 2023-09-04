@@ -13,7 +13,8 @@ public class SomaDoisNumeros{
         
         System.out.println(" digita ai ");
         segundoOperando = leitor.nextDouble();
-
+        
+        resultado = primeiroOperando + segundoOperando;
         
 
 
